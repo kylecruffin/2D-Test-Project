@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerFly.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerFly.cs" Line="87" Column="53" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="43" Column="39" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" Line="13" Column="3" />
+      <File FileName="Assets\Scripts\PlayerPunch.cs" Line="6" Column="2" />
+      <File FileName="..\rollingball\Assets\Scripts\Movement.cs" Line="93" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
