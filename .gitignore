@@ -46,9 +46,20 @@ Network Trash Folder
 Temporary Items
 .apdisk
 <<<<<<< HEAD
+<<<<<<< HEAD
 Temp/UnityLockfile
 =======
 Library/ScriptAssemblies/BuiltinAssemblies.stamp
 Temp/UnityLockfile
 Temp/__Backupscenes/0.backup
 >>>>>>> origin/testing-changes
+=======
+Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97
+Library/assetDatabase3
+Temp/UnityLockfile
+Library/AssetVersioning.db
+*.backup
+*.log
+*.log
+Library/shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> refs/remotes/origin/master
